@@ -1,3 +1,3 @@
 # PostMe
 
-![Screenshot](https://github.com/ioaiy/PostMe/tree/master/media/postme.gif)
+![Screenshot](https://github.com/ioaiy/Django-PostMe/blob/master/media/postme.gif)
